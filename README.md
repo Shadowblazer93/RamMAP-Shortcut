@@ -6,7 +6,7 @@ It presents usage information in different ways on its several different tabs.
 It is one of the best ram monitoring tools. 
 
 # How to use This
-To download the file, go to the [releases](https://github.com/Shadowblazer93/RamMAP-Shortcut/releases) and download the source code
+To download the file, go to the [releases](https://github.com/Shadowblazer93/RamMAP-Shortcut/releases) and download the source code.                 
 Whenever you feel like clearing you ram, just run the .bat file and you will feel your computer getting more responsive.  
 
 # Activate the .bat file from anywhere
